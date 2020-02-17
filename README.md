@@ -1,1 +1,3 @@
 https://sergeiypermyakov.github.io/rsschool-cv/cv
+
+https://sergeiypermyakov.github.io/rsschool-cv/ - main page of summmary
