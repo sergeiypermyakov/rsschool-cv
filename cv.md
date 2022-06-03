@@ -14,3 +14,4 @@
 ### Projects
 - [24health.by](https://24health.by/)
 - [medvestnik.by](https://medvestnik.by/)
+- [bel.24health.by](https://bel.24health.by/)
